@@ -14,7 +14,6 @@ This repository contains the assignments and implementations for the **Artificia
 - [Project 2: Adversarial Search & Optimization](#project-2-adversarial-search--optimization)
 - [Project 3: Supervised Classification](#project-3-supervised-classification)
 - [Project 4: Deep Learning for Computer Vision](#project-4-deep-learning-for-computer-vision)
-- [Project 5: Unsupervised Text Clustering](#project-5-unsupervised-text-clustering)
 - [Repository Structure](#repository-structure)
 - [Setup & Requirements](#setup--requirements)
 
@@ -43,36 +42,29 @@ A comparative empirical study of feed-forward versus convolutional architectures
 - **Techniques:** Dropout, Batch Normalization, learning rate schedules, and data augmentation.
 - **Analysis:** Loss/accuracy trajectories, confusion matrix analysis, and intermediate layer feature map visualizations.
 
-### Project 5: Unsupervised Text Clustering
-Semantic clustering of English song lyrics using dense vector embeddings.
-- **Feature Extraction:** Lyrics tokenization, cleaning, and embedding generation via pretrained **SentenceTransformers**.
-- **Dimensionality Reduction:** Principal Component Analysis (PCA) and t-SNE for projection and visualization.
-- **Algorithms:** K-Means, DBSCAN, and Agglomerative Hierarchical Clustering.
-- **Metrics:** Evaluated via Silhouette Score and Davies–Bouldin Index.
-
 ---
 
 ## Repository Structure
 
 ```text
 ├── 01-Search-Game-Solver/
+|   ├── doc/
 │   ├── src/
 │   └── README.md
 ├── 02-Pentago-Genetic-Algorithm/
+|   ├── doc/
 │   ├── fourier-ga/
 │   ├── pentago-minimax/
 │   └── README.md
 ├── 03-Student-Performance/
 │   ├── data/
+|   ├── doc/
 │   ├── notebooks/
 │   └── README.md
-├── 04-MLP-vs-CNN-CIFAR10/
-│   ├── models/
-│   ├── train.py
-│   └── README.md
-└── 05-Text-Clustering/
-    ├── embeddings/
-    ├── cluster.py
+└── 04-MLP-vs-CNN-CIFAR10/
+    ├── doc/
+    ├── notebooks/
+    ├── pytorch-tutorial/
     └── README.md
 ```
 
