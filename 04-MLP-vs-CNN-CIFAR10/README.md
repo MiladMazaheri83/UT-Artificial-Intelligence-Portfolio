@@ -128,4 +128,4 @@ The 512-dimensional bottleneck layer of the CNN was isolated to evaluate semanti
 
 ## License
 
-This project is part of the University of Tehran AI Course portfolio and is licensed under the [MIT License](../../LICENSE).
+This project is part of the University of Tehran AI Course portfolio and is licensed under the [MIT License](../LICENSE).

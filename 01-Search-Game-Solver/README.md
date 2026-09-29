@@ -10,13 +10,18 @@ This project implements and evaluates various **uninformed** and **informed** cl
 
 ## Table of Contents
 
-- [Problem Formulation](#problem-formulation)
-- [Environment & Rules](#environment--rules)
-- [Algorithms Implemented](#algorithms-implemented)
-- [Heuristic Design](#heuristic-design)
-- [Project Structure](#project-structure)
-- [Execution & Usage](#execution--usage)
-- [Algorithm Comparison Summary](#algorithm-comparison-summary)
+- [Project 1: Portal-Aware Puzzle Solver (Search Algorithms)](#project-1-portal-aware-puzzle-solver-search-algorithms)
+  - [Table of Contents](#table-of-contents)
+  - [Problem Formulation](#problem-formulation)
+  - [Environment \& Rules](#environment--rules)
+  - [Algorithms Implemented](#algorithms-implemented)
+    - [1. Uninformed Search](#1-uninformed-search)
+    - [2. Informed Search](#2-informed-search)
+  - [Heuristic Design](#heuristic-design)
+  - [Project Structure](#project-structure)
+  - [Execution \& Usage](#execution--usage)
+  - [Algorithm Comparison Summary](#algorithm-comparison-summary)
+  - [License](#license)
 
 ---
 
@@ -139,5 +144,4 @@ To accelerate the search space exploration in A* and Weighted A*, multiple heuri
 
 ## License
 
-This project is part of the University of Tehran AI Course portfolio and is licensed under the [MIT License](../../LICENSE).
-```
+This project is part of the University of Tehran AI Course portfolio and is licensed under the [MIT License](../LICENSE).

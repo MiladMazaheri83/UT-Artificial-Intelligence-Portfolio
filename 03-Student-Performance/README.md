@@ -123,4 +123,4 @@ Performance was evaluated on held-out test splits using Accuracy, Precision, Rec
 
 ## License
 
-This project is part of the University of Tehran AI Course portfolio and is licensed under the [MIT License](../../LICENSE).
+This project is part of the University of Tehran AI Course portfolio and is licensed under the [MIT License](../LICENSE).

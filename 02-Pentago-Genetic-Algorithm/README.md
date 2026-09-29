@@ -13,17 +13,19 @@ This repository contains implementations for **Assignment 2** of the Artificial 
 
 ## Table of Contents
 
-- [Part 1: Fourier Series Approximation (Genetic Algorithm)](#part-1-fourier-series-approximation-genetic-algorithm)
-  - [Problem Formulation](#problem-formulation)
-  - [Genetic Operators](#genetic-operators)
-  - [Fitness Metrics](#fitness-metrics)
-- [Part 2: Pentago Game AI (Adversarial Search)](#part-2-pentago-game-ai-adversarial-search)
-  - [Game Mechanics](#game-mechanics)
-  - [Minimax with Alpha-Beta Pruning](#minimax-with-alpha-beta-pruning)
-  - [Heuristic Evaluation Function](#heuristic-evaluation-function)
-- [Project Structure](#project-structure)
-- [Setup & Execution](#setup--execution)
-- [License](#license)
+- [Project 2: Evolutionary Optimization \& Adversarial Game Search](#project-2-evolutionary-optimization--adversarial-game-search)
+  - [Table of Contents](#table-of-contents)
+  - [Part 1: Fourier Series Approximation (Genetic Algorithm)](#part-1-fourier-series-approximation-genetic-algorithm)
+    - [Problem Formulation](#problem-formulation)
+    - [Genetic Operators](#genetic-operators)
+    - [Fitness Metrics](#fitness-metrics)
+  - [Part 2: Pentago Game AI (Adversarial Search)](#part-2-pentago-game-ai-adversarial-search)
+    - [Game Mechanics](#game-mechanics)
+    - [Minimax with Alpha-Beta Pruning](#minimax-with-alpha-beta-pruning)
+    - [Heuristic Evaluation Function](#heuristic-evaluation-function)
+  - [Project Structure](#project-structure)
+  - [Setup \& Execution](#setup--execution)
+  - [License](#license)
 
 ---
 
@@ -124,5 +126,4 @@ For non-terminal leaf nodes at maximum search depth:
 
 ## License
 
-This project is part of the University of Tehran AI Course portfolio and is licensed under the [MIT License](../../LICENSE).
-```
+This project is part of the University of Tehran AI Course portfolio and is licensed under the [MIT License](../LICENSE).
