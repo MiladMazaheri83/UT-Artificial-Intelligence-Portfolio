@@ -70,6 +70,7 @@ A comparative empirical study of feed-forward versus convolutional architectures
 │   ├── notebooks/
 │   ├── pytorch-tutorial/
 │   └── README.md
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
