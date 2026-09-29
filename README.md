@@ -70,6 +70,7 @@ A comparative empirical study of feed-forward versus convolutional architectures
 │   ├── notebooks/
 │   ├── pytorch-tutorial/
 │   └── README.md
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
@@ -103,4 +104,3 @@ A comparative empirical study of feed-forward versus convolutional architectures
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
