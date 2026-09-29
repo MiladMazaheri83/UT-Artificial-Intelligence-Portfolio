@@ -14,20 +14,19 @@ The primary objective is an empirical and architectural comparison between **Ful
 
 ## Table of Contents
 
-- [Overview & Benchmark Constraint](#overview--benchmark-constraint)
-- [Dataset Pipeline](#dataset-pipeline)
-- [Architectures & Parameter Budget](#architectures--parameter-budget)
-  - [1. Deep Multi-Layer Perceptron (MLP)](#1-deep-multi-layer-perceptron-mlp)
-  - [2. Deep Convolutional Neural Network (CNN)](#2-deep-convolutional-neural-network-cnn)
-- [Training & Optimization Setup](#training--optimization-setup)
-- [Experimental Results](#experimental-results)
-- [Feature Space & Latent Representations](#feature-space--latent-representations)
-  - [k-Nearest Neighbors (k-NN) Retrieval](#k-nearest-neighbors-k-nn-retrieval)
-  - [t-SNE Latent Space Projection](#t-sne-latent-space-projection)
-  - [Convolutional Feature Map Visualizations](#convolutional-feature-map-visualizations)
-- [Project Structure](#project-structure)
-- [Setup & Execution](#setup--execution)
-- [License](#license)
+- [Project 4: Deep Learning \& Representation Analysis on CIFAR-10](#project-4-deep-learning--representation-analysis-on-cifar-10)
+  - [Table of Contents](#table-of-contents)
+  - [Overview \& Benchmark Constraint](#overview--benchmark-constraint)
+  - [Dataset Pipeline](#dataset-pipeline)
+  - [Architectures \& Parameter Budget](#architectures--parameter-budget)
+    - [1. Deep Multi-Layer Perceptron (MLP)](#1-deep-multi-layer-perceptron-mlp)
+    - [2. Deep Convolutional Neural Network (CNN)](#2-deep-convolutional-neural-network-cnn)
+  - [Training \& Optimization Setup](#training--optimization-setup)
+  - [Experimental Results](#experimental-results)
+    - [Findings](#findings)
+  - [Feature Space \& Latent Representations](#feature-space--latent-representations)
+  - [Project Structure](#project-structure)
+  - [License](#license)
 
 ---
 
@@ -119,9 +118,6 @@ The 512-dimensional bottleneck layer of the CNN was isolated to evaluate semanti
 ├── notebooks/
 │   └──mlp_vs_cnn_benchmark.ipynb           # Full pipeline: MLP vs CNN, t-SNE, Feature Maps
 └── README.md
-   ```bash
-   jupyter notebook pytorch-tutorial/pytorch-tutorial.ipynb
-   ```
 
 3. **Execute Benchmark & Analysis Notebook:**
    ```bash
