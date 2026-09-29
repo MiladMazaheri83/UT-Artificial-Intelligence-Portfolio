@@ -10,12 +10,16 @@ This repository contains the assignments and implementations for the **Artificia
 
 ## Table of Contents
 
-- [Project 1: Search Algorithms (Game Solver)](#project-1-search-algorithms-game-solver)
-- [Project 2: Adversarial Search & Optimization](#project-2-adversarial-search--optimization)
-- [Project 3: Supervised Classification](#project-3-supervised-classification)
-- [Project 4: Deep Learning for Computer Vision](#project-4-deep-learning-for-computer-vision)
-- [Repository Structure](#repository-structure)
-- [Setup & Requirements](#setup--requirements)
+- [UT-Artificial-Intelligence-portfolio](#ut-artificial-intelligence-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Projects Overview](#projects-overview)
+    - [Project 1: Search Algorithms (Game Solver)](#project-1-search-algorithms-game-solver)
+    - [Project 2: Adversarial Search \& Optimization](#project-2-adversarial-search--optimization)
+    - [Project 3: Supervised Classification](#project-3-supervised-classification)
+    - [Project 4: Deep Learning for Computer Vision](#project-4-deep-learning-for-computer-vision)
+  - [Repository Structure](#repository-structure)
+  - [Setup \& Requirements](#setup--requirements)
+  - [License](#license)
 
 ---
 
@@ -61,11 +65,13 @@ A comparative empirical study of feed-forward versus convolutional architectures
 |   ├── doc/
 │   ├── notebooks/
 │   └── README.md
-└── 04-MLP-vs-CNN-CIFAR10/
-    ├── doc/
-    ├── notebooks/
-    ├── pytorch-tutorial/
-    └── README.md
+├── 04-MLP-vs-CNN-CIFAR10/
+│   ├── doc/
+│   ├── notebooks/
+│   ├── pytorch-tutorial/
+│   └── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---

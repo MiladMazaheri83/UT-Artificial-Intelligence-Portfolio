@@ -12,18 +12,20 @@ This project constitutes **Assignment 3** of the Artificial Intelligence course 
 
 ## Table of Contents
 
-- [Problem Definition](#problem-definition)
-- [Dataset & Feature Pipeline](#dataset--feature-pipeline)
-  - [Feature Engineering & Cleaning](#feature-engineering--cleaning)
-  - [Target Discretization](#target-discretization)
-  - [Data Splitting & Scaling](#data-splitting--scaling)
-- [Models Implemented](#models-implemented)
-  - [Custom Decision Tree (From Scratch)](#custom-decision-tree-from-scratch)
-  - [Ensemble & Baseline Models](#ensemble--baseline-models)
-- [Evaluation & Benchmark Results](#evaluation--benchmark-results)
-- [Project Structure](#project-structure)
-- [Setup & Execution](#setup--execution)
-- [License](#license)
+- [Project 3: Student Academic Performance Classification](#project-3-student-academic-performance-classification)
+  - [Table of Contents](#table-of-contents)
+  - [Problem Definition](#problem-definition)
+  - [Dataset \& Feature Pipeline](#dataset--feature-pipeline)
+    - [Feature Engineering \& Cleaning](#feature-engineering--cleaning)
+    - [Target Discretization](#target-discretization)
+    - [Data Splitting \& Scaling](#data-splitting--scaling)
+  - [Models Implemented](#models-implemented)
+    - [Custom Decision Tree (From Scratch)](#custom-decision-tree-from-scratch)
+    - [Ensemble \& Baseline Models](#ensemble--baseline-models)
+  - [Evaluation \& Benchmark Results](#evaluation--benchmark-results)
+  - [Project Structure](#project-structure)
+  - [Setup \& Execution](#setup--execution)
+  - [License](#license)
 
 ---
 
@@ -93,7 +95,7 @@ Performance was evaluated on held-out test splits using Accuracy, Precision, Rec
 ## Project Structure
 
 ```text
-03-Student-Performance-Classification/
+03-Student-Performance/
 ├── data/
 │   └── Grades.csv              # Student academic & demographic dataset
 ├── doc/
